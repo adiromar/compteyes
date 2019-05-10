@@ -1,0 +1,9 @@
+The forward pass 
+==================
+The earliest start date for any event is the earliest finish date for all activites terminating at the event
+When more than one activities finish at the single event , we take the latest of the earliest finish of those activities
+
+The Bakward pass
+--------------------
+-> The latest date for an event is the latest start date for all the activities that may commence from the event 
+->When more than one activities start from a single event we take the earliest of the latest start date of those acitiviteis.

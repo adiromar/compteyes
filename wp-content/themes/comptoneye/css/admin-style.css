@@ -1,0 +1,41 @@
+div.fm-item.fm-subgroup.fm-group {
+        float: left;
+    padding: 10px
+}
+
+.fmjs-remove, .fmjs-clear {
+    margin: 4px 0 0 5px;
+    display: block;
+    height: 30px;
+    width: 15px;
+    float: right;
+    text-decoration: none;
+}
+.fm-item.fm-Appointment {
+    border-top: 1px solid #EEC;
+}
+
+.fm-label.fm-label-Date {
+    font-size: 26px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.fmjs-removable-element {
+    padding-left: 32px;
+    padding-top: 15px;
+}
+.fm-add-another-wrapper {
+    margin-top: 40px;
+}
+.fm-add-another-wrapper {
+    border-top: 1px solid #eee;
+    padding: 20px;
+}
+.fm-element.fm-datepicker-popup.hasDatepicker.fm-has-date-picker{
+    width:300px;
+}
+input.fm-add-another.fm-subgroup-add-another.button-secondary {
+    margin-top: 20px;
+}
+   
